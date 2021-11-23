@@ -10,6 +10,13 @@ export default {
 }
 </script>
 
-<style>
-
+<style scoped>
+  header{
+    height: 80px;
+    padding: 10px;
+    background-color: darkgreen;
+  }
+  h1{
+    font-weight: 900;
+  }
 </style>

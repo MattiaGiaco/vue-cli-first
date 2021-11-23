@@ -11,7 +11,17 @@ export default {
 </script>
 
 <style scoped>
+main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  background-color: cadetblue;
+  padding: 10px;
+}
   h1{
-    color: seagreen;
+    background-color: coral;
+    border-radius: 50%;
+    padding: 100px;
   }
 </style>
